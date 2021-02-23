@@ -5,3 +5,8 @@ INFO 2021-02-23 23:38:24,712 - Second message.
 INFO 2021-02-23 23:38:34,033 - Second message.
 INFO 2021-02-23 23:38:38,998 - Second message.
 INFO 2021-02-23 23:38:43,777 - Second message.
+DEBUG 2021-02-23 23:41:56,675 - Debug message.
+INFO 2021-02-23 23:41:56,675 - Info message.
+WARNING 2021-02-23 23:41:56,675 - Warning message.
+ERROR 2021-02-23 23:41:56,675 - Error message.
+CRITICAL 2021-02-23 23:41:56,675 - Critical message.

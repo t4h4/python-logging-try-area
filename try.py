@@ -8,4 +8,8 @@ logging.basicConfig(filename="C:\\Users\\tahay\Desktop\\python-logging-try-area\
 logger = logging.getLogger()
 
 # Test the logger
-logger.info("Second message.")
+logger.debug("Debug message.")
+logger.info("Info message.")
+logger.warning("Warning message.")
+logger.error("Error message.")
+logger.critical("Critical message.")
